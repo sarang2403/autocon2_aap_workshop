@@ -1,0 +1,2 @@
+network_banner: "Second banner configured by Ansible"
+banner_type: "login"
